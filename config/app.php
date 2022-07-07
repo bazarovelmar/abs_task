@@ -229,4 +229,10 @@ return [
 
     ],
 
+    'pagination' => [
+        'per_page' => 5,
+        'element_quantity' => 100,
+        'links_to' => 1,
+        'links_after' => 1
+    ]
 ];
